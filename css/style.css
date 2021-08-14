@@ -1,0 +1,29 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    color:;
+}
+.container{
+	position: ;
+}
+.fv{
+	background: green;
+	padding: 100px;
+	margin :50px;
+}
+
+.tv{
+	background: salmon;
+	padding: 100px;
+	margin :50px;
+}
+
+.boxs{height:500px}
+
+.walls{
+	background: rgba(225,225,225,0.8);
+	padding: 100px;
+	margin:0px;
+	position: absolute;
+	width: 100vw;
+}
